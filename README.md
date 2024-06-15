@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k3sr4t
 - 👀 I’m interested in penetration testing and UAV
-- 🌱 I’m currently learning cyber security and preparing some competitions about UAV with my scholl team TeknoNFL
+- 🌱 I’m currently learning cyber security and preparing some competitions about UAV with my scholl team 
 - ⚡ Fun fact: I do arp-poisining with bettercap when ı was 10 years old. It was my first time.
 
 <!---
